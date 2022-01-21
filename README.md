@@ -1,7 +1,6 @@
 # Normandale AHVET Code Repository
 
-Automated high vacuum software for DAQFactory HMI system PC control system
-Primary uses is to demostrate proper used/operation of high vacuum equipment.  This is not a simulator, but control/visualization of actual hardware for learning purposes.
+Software for Normandale's High Vacuum trainer equipment.  It uses DAQFactory's HMI/control PC software to demostrate operation of high vacuum equipment.
 
 ..
 ..
@@ -16,5 +15,5 @@ Released versions contain all odd numbers including build number:
 Examples: V3.15.B129
 
 Current Version
-V1.01.B01 - initial release
+V1.01.B01 - initial release - 
 
